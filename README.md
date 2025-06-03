@@ -1,4 +1,4 @@
-# 🎮 🤖 QMLE: Q-Learning with MLE
+# 🎮🤖 QMLE: Q-Learning with MLE
 
 
 [<img src="https://img.shields.io/badge/license-MIT-blue">](https://github.com/atavakol/qmle)
